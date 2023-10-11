@@ -43,6 +43,7 @@ require plugin_dir_path( __FILE__ ) . 'build/non-block-examples/07-slotfills-esn
 require plugin_dir_path( __FILE__ ) . 'build/blocks-jsx/08-block-supports-esnext/index.php';
 require plugin_dir_path( __FILE__ ) . 'build/non-block-examples/09-code-data-basics-esnext/index.php';
 require plugin_dir_path( __FILE__ ) . 'build/blocks-jsx/10-dynamic-block/index.php';
+require plugin_dir_path( __FILE__ ) . 'build/blocks-jsx/11-accessible-navigation-esnext/index.php';
 require plugin_dir_path( __FILE__ ) . 'build/non-block-examples/format-api/index.php';
 require plugin_dir_path( __FILE__ ) . 'blocks-non-jsx/plugin-sidebar/plugin-sidebar.php';
 require plugin_dir_path( __FILE__ ) . 'build/blocks-jsx/meta-block/index.php';
